@@ -175,6 +175,8 @@ Please cite as:
 
 Here are some great tips for learning and to get inspired for your own use:
 
+* [Vectara hallucination testing](https://github.com/vectara/hallucination-leaderboard/?tab=readme-ov-file)
+* [AI Hallucination Report 2025: Which AI Hallucinates the Most?](https://www.allaboutai.com/resources/ai-statistics/ai-hallucinations/)
 * [Generative AI and Copyright - Training, Creation, Regulation](https://www.europarl.europa.eu/thinktank/en/document/IUST_STU(2025)774095) by Nicola LUCCHI, PhD - Serra Hunter Professor of Comparative Law, University Pompeu Fabra, Barcelona, Spain
 * [EC ERA Forum doc - CC-BY](https://research-and-innovation.ec.europa.eu/document/download/2b6cf7e5-36ac-41cb-aab5-0d32050143dc_en?filename=ec_rtd_ai-guidelines.pdf)
 * [Library Toronto](https://onesearch.library.utoronto.ca/copyright/generative-ai-tools-and-copyright-considerations)
@@ -259,5 +261,6 @@ Technical Editors: Alexander Botzki
   ]
 }
 ```
+
 
 
