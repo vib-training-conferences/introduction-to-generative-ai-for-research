@@ -1,0 +1,3 @@
+- Apertus https://blog.nlp-lab.ai/2025/09/05/ApertusBench.html
+- privacy by design - https://www.linkedin.com/posts/buggeholmhansen_apples-latest-announcement-is-worth-paying-ugcPost-7368541807434956800-C5c2?utm_source=share&utm_medium=member_android&rcm=ACoAAABqGrYBTtGP9GGkyU9wUUDVqgt9cz9jvZg&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B3kC7U4RQQeOTR6XdTbctbA%3D%3D
+- 
