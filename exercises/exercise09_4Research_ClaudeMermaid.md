@@ -2,8 +2,8 @@
 
 Create a mindmap diagram and visualise it with Mermaid
 
-- Open your browser and surf to https://claude.ai 
+- Open your browser and surf to https://m365.cloud.microsoft/chat
 
-1. Upload the PDF downloaded from https://doi.org/10.1080/02602938.2024.2386662 to Claude.
-2. create a Mermaid code visual based on the themes addressed in the attached article.
+1. Upload the PDF downloaded from https://doi.org/10.1080/02602938.2024.2386662 (it has a CC-BY license) to the Copilot chat.
+2. Prompt: "Create a Mermaid code visual based on the concepts addressed in the attached article."
 3. Copy the resulting code to https://mermaid.live/edit
