@@ -1,6 +1,6 @@
 # Exercise 01
 
-- Download the image from this online repository
+- Download the [image](./example-training.png) from this online repository
 - Upload the image in the Copilot chat
 - Use this prompt:
 ```
