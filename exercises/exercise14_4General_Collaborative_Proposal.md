@@ -2,7 +2,7 @@
 
 Form small groups of around 5-7 persons, select a topic below, and distribute the distinct activities between the group members.
 
-In case you would like to take a use case, think about an own short project relevant for your lab.
+In case you would like to take another use case, do not hesitate and think about an own short project relevant for your lab.
 
 1. Write a short proposal for a staff exchange between two research performing organisations.
 
@@ -43,8 +43,21 @@ In case you would like to take a use case, think about an own short project rele
    * Create at least one illustrations which support the steps of the SOP.
    * Create a Word file with the SOP.
 
-5. Have a look at exercise 12 which zooms in about the evaluation and feedback process of a draft proposal.
+
+5. Create an outline of training material for your local learning network.
+
+  Possible approaches are:
+
+   * Identify a relevant topic to work on .
+   * Identify relevant scientific papers for the topic at hand by selecting one of the presented tools.
+   * Develop a one shot prompt which helps you identify a few relevant articles or web pages.
+   * Create a concept map for the training material.
+   * Create at least one illustrations which support the scoping of the topic.
+   * Create a rtf file and a svg file as digital assets. 
+
+6. Have a look at exercise 12 which zooms in about the evaluation and feedback process of a draft proposal.
 
    [Link to the exercise](./exercise12_4Research_InspirationalPromptsForWriting.md)
 
    
+
