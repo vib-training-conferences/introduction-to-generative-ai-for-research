@@ -133,7 +133,7 @@ Schedule day 1:
 > 
 > 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
 > 2. [Slides morning](https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_intro_2025_v2.2.pdf)
-> 3. [Slides afternoon](https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_Research_2025_V2.2.pptx.pdf)  
+> 3. [Slides afternoon](https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_Research_2025_V2.4.pptx.pdf)  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
@@ -142,7 +142,7 @@ Schedule day 1:
 >
 > <i class="fa fa-money-bill"></i> **Funding:** This project has received funding from VIB.
 >
-> <i class="fa fa-anchor"></i> **PURL**:  
+> <i class="fa fa-anchor"></i> **PURL**: NA (linked with Zenodo) 
 
 
 # Authors and Contributors
@@ -261,6 +261,7 @@ Technical Editors: Alexander Botzki
   ]
 }
 ```
+
 
 
 
