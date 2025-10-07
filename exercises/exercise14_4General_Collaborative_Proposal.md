@@ -1,4 +1,4 @@
-# Exerise 14
+# Exercise 14
 
 Form small groups of around 5-7 persons, select a topic below, and distribute the distinct activities between the group members.
 
@@ -55,9 +55,18 @@ In case you would like to take another use case, do not hesitate and think about
    * Create at least one illustrations which support the scoping of the topic.
    * Create a rtf file and a svg file as digital assets. 
 
-6. Have a look at exercise 12 which zooms in about the evaluation and feedback process of a draft proposal.
+6. Create an conference or symposium abstract.
+
+  Possible approaches are:
+
+   * Identify a relevant topic to work on .
+   * https://www.linkedin.com/posts/nacke_chi2026-phd-research-activity-7369360591192219648-RU1w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABqGrYBTtGP9GGkyU9wUUDVqgt9cz9jvZg
+ 
+
+7. Have a look at exercise 12 which zooms in about the evaluation and feedback process of a draft proposal.
 
    [Link to the exercise](./exercise12_4Research_InspirationalPromptsForWriting.md)
 
    
+
 
