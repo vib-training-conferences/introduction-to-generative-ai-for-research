@@ -8,7 +8,7 @@ comment: LiaScript quiz generated from your prompts
 # AI in Academic Writing — Quick Quiz
 
 Welcome! This short quiz checks core ideas around AI integration in academic writing, literature discovery, licensing, and responsible use.
-Start the quiz [here](https://github.com/vib-tcp/introduction-to-generative-ai/new/main/supplementary/quiz/md).
+Start the quiz [here](https://liascript.github.io/course/?https://raw.githubusercontent.com/vib-tcp/introduction-to-generative-ai/refs/heads/main/supplementary/quiz.md#1).
 
 ## Question 1
 
