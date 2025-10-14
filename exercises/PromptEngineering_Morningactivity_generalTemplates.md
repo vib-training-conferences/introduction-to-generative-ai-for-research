@@ -109,38 +109,41 @@ I want to brainstorm about **[unusual ways to use a folding box]**. You should a
 
 #### TEMPLATE (define style and list of words):
 
+In this case you will provide additionally to the building blocks we have seen, blocks if information about the style of writing and structure of the text.
+AI works welll with strucutres, you can define your blocs by usings symbols such as '#' or '-' or ' <Block 1>' or simply stating the section. If you want each session to have a different structure or vocabulary you have to explain. Your prompr starts to become more complex and more complete. Iterations become more and more important. See the example below.
+
 You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
 
-/### style ###
+### General structure
+
+- style of tetx -
 
 **[AVOID/USE]** fancy jargon. Write **[FORMALLY/NORMALLY/]**. 
 
-You are **[FORBIDDEN]** to use complex English words. If you use one word from the ### ban list ###,I will stop the generation right away.
-Or
-You **[MUST]** use **[AT LEAST X WORDS]** from the ###keep list###.
+You are **[FORBIDDEN]** to use complex English words, refrain of using terms from the - ban list - . Write one **[ONE PARAGRAPH/TITLE/HEADER FOR LINKEDING ARTICLE/ETC]**
 
-/### ban list ###
+-  ban list -
 
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
 
-/### ban list ###
+***Prompt 1:*** 
 
-/### style ###
+Using the **bullet points bellow** draft a paragraph to introduce the topic **for a grant project**. Assume you are writing for people with little background in teaching. Respect the style defined
 
-***Example :***
-You are a researcher offering a training. Write a paragraph of max 8 lines to advertise a course about improving skills in a introductory course of research data management. Assume you are writing for master and phd students.
+- style -
 
-/### style ###
+Avoid fancy jargon. Write normally. You are forbidden to use complex English words. refrain of using terms from the - ban list -. The paragraph must contain a maximum of 150 words. Use UK english. 
 
-Avoid fancy jargon. Write normally. You are forbidden to use complex English words. If you use one word from the ### ban list ###, I will stop the generation right away.
-
-/### ban list ###
+- ban list -
 
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
 
-/### ban list ###
+***Iteration 1:*** 
 
-/### style ###
+Adpat the paragrap by **using fancy jargon**. Write for a marketing action.  Use terms from - My list -. The paragraph must contain a maximum of 150 words. Use UK American. 
+
+- My list -
+Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
 
 </details>
 
