@@ -5,25 +5,49 @@
 <details>
 <summary><b> 1. GENERAL INFORMATION </summary></b>
 
-Replace “explain” with other action verbs that could be more adequate for your goals. See examples below.
+The building blocks for a good prompt are:
 
+1. Clear actions (verbs)
 
-Classify, Write, Summarize, Create, Brainstorm, Compare, Develop, Expand, Simplify, Draft, Classify, Map, etc …
+2. Clear and complete context (avoid ambiguity)
 
-Complementarity you can try to explain what you want from the verb:
-https://www.linkedin.com/feed/update/urn:li:activity:7229585834339885056/
+3. Define a Audiance and AI-Persona
 
-***Example 1.1***
+4. Iterations, do not stop in the first answer
+
+When you think of your verb, try to be very clear, Replace “explain” with other action verbs that could be more adequate for your goals. See examples below.
+
+> Classify, 
+> Write,
+> Summarize,
+> Draw, 
+> Brainstorm,
+> Compare,
+> Develop,
+> Expand,
+> Simplify,
+> Draft,
+> Classify,
+> Map,
+> etc …
+
+Complementary you should specify more information about what you expect from this verb. Exemplify what? Draw in which style? Compare in what perspective? Simply to what level? etc ...
+This way you can get the best out of the chat bot.
+
+***Promtp 1***
 
 Rewrite the orignal session in Nederlands from Belgium. If you are not fluent, you can use translation tools to help you with this task.
 
 [Copy text or attach file]
 
-***Example 1.2***
+> In this simple prompt you have a clear verb "Rewrite" and you specify the language and form of the language Dutch from Nederlands is usually the reference, but you want Belgium variation which will vary the vocabulary choosen for the translation.
 
-THIS EXAMPLE IS AN ITEREATION OF THE PREVIOUS
+***Iteration 1***
 
-Make a summary in Brazilian Portuguese. If you are not fluent, you can use translation tools to help you with this task.
+Make a summary of the attached document in Brazilian Portuguese. If you are not fluent, you can use translation tools to help you with this task.
+
+> If you don't specify the summary is done from the original document ir will use the Dutch translation. However the bot takes in account the context in the history of this prompt tab so is not possible to be 100% sure that is using only the file.
+
 </details>
 
 <details>
@@ -167,3 +191,7 @@ https://docs.anthropic.com/en/prompt-library/library
 
 Msty prompt library
 https://msty.app/prompts-library
+
+
+Explain what you want from the verb
+https://www.linkedin.com/feed/update/urn:li:activity:7229585834339885056/
