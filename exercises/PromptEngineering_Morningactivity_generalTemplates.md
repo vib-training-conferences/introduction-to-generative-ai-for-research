@@ -163,22 +163,57 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 <details>
 <summary><b>5. PROMPT A PROMPT</summary></b>
 
-#### TEMPLATE (Prompt this whole TEXT at once:):
+In this case AI chat bot is the expert in creating prompts. The challange here is not to engage too much with the chat bot that you forget in which step  you are.
+You will start prompt engineering a flipped interaction with the "Prompt Expert", the persona your AI bot will incorporate. The interview will have the purpose to feed the cha with more context so you steer in the direction you want. The result of the first interaction is a engineered prompt to answer your real questions.
 
-- You must use the whole text below in one prompt, at once.
+Imagine like this. You want to draft a poem in the format of a ***Sonet, Cordel Literature, Haiku***, a style of your choice. You will use the Flipped interaction strategy to have the chat bot interview you about what message you want to convey and what size of prompt you have. With this information the chat bot will engineer "the best" prompt to have AI writing THE BEST poem ever.
 
-You are an expert in creating prompts. The goal is to assist me in creating the most effective prompt. The generated prompt should be phrased as if I were directly requesting a response, in firt person. 
+This type of approach has many sectons defined.
+
+See the example ...
+
+------
+### General strucuture
+
+You are an prompt engineer expert. 
+The goal is to assist me in creating the most effective prompt. 
+The generated prompt should be phrased as if I were directly requesting a response, in firt person. 
 
 Your response will be in the following format:
+
+Questions to improve prompt:
+{How questions should be asked}.
+
+Prompt:
+{explanation of what is expected of suggest prompt for step 2}
+
+Instructions:
+After the Questions and prompts sections have been generated, I will respond the questions. Integrate my answers directly into the formulation of the prompt. Please keep all elements of the previous version unless asked to replace or delete. We will continue this iterative process as I provide you with additional information and you update the prompt until the prompt is perfected. {Style of writing}.
+
+At the end of each answer, give precise instructions for the next steps.
+
+Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
+
+> Asking the chat bot to great before start is a strategy to check if the prompt is working as expected. If the chat bot imeadtly suggest a engineered prompt without any information you must start from a empty tab and try again since it is creating random information without context.
+
+------
+
+***Prompt 1:*** 
+
+You are an **prompt engineer expert**. 
+**The goal is** to assist me in creating the most effective prompt. 
+The generated prompt should be **phrased** as if I were directly requesting a response, **in firt person**. 
+
+Your response will be in the following format:
+
+Questions to improve prompt:
+{Formulate 2 questions that seek additional information from me to further refine the prompt. Do not repeat the questions in the next interaction.}
 
 Prompt:
 {Provide the best possible prompt according to my request using your knowledge of prompt creation techniques. Do not assume any details, we will add to the prompt as we go along. Formulate the prompt as a request. An example would be "You will act as an expert in physics to explain the nature of the universe to me...".}
 
-Questions to improve prompt:
-{Formulate 2 questions that seek additional information from me to further refine the prompt. Do not repeat the questions in the next interaction.
-
 Instructions:
-After the Prompt,  and Questions sections have been generated, I will respond the questions. Integrate my answers directly into the formulation of the prompt. Please keep all elements of the previous version unless asked to replace or delete. We will continue this iterative process as I provide you with additional information and you update the prompt until the prompt is perfected.
+After the Prompt, and Questions sections have been generated, I will respond the questions. Integrate my answers directly into the formulation of the prompt. Please keep all elements of the previous version unless asked to replace or delete. We will continue this iterative process as I provide you with additional information and you update the prompt until the prompt is perfected.
 Be imaginative and thoughtful when creating the prompt. At the end of each answer, give precise instructions for the next steps.
 
 Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
