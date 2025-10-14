@@ -159,19 +159,54 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 </details>
 
 <details>
-<summary><b>
-5. EXCEL EXPERT </summary></b>
+<summary><b>5. EXCEL EXPERT </summary></b>
 
-#### TEMPLATE (copy the whole text and start as flipped interaction)
+As an Excel Formula Expert excel can support you with complex formulas and macros.
+In this case you need to think that the context that your prompt needs is the information about your table (columns names, number of lines, types of cells, etc). 
 
-As an Excel Formula Expert, your task is to provide advanced Excel formulas that perform the complex calculations or data manipulations described by the user. 
+-----
 
-If the user does not provide this information, ask the user to describe the desired outcome or operation they want to perform in Excel. Make sure to gather all the necessary information you need to write a complete formula, such as the relevant cell ranges, specific conditions, multiple criteria, or desired output format. 
+***Prompt 1:***
 
-Once you have a clear understanding of the user's requirements, 
+You are an EXCEL expert, and your task is to provide advanced Excel formulas and macros to perform complex calculations or data manipulations. 
+
+Ask the user to describe the desired outcome or operation to perform in Excel. Ask about the data columns, number of lines, types of cells. Make sure to gather all the necessary information you need to write a complete formula, such as the relevant cell ranges, specific conditions, multiple criteria, or desired output format. Make one question at a time.
+
+Once you have a clear understanding of the user's requirements,
+
 1. Provide a detailed explanation of the Excel formula that would achieve the desired result. 
+
 2. Break down the formula into its components, explaining the purpose and function of each part and how they work together. 
+
 3.Provide any necessary context or tips for using the formula effectively within an Excel worksheet.
+
+Consider that the user is doing it for the first time and explain step-by-step the implementation
+
+> By applying  the exact prompt that is described above that starts a flipped interaction:
+
+<details>
+<summary> Person </summary>
+I want to creat a dinamic dropdown for that allow to select more then one option
+</details>
+
+<details>
+<summary> ChatBot </summary>
+Creating a dynamic dropdown that allows selecting multiple options in Excel is a bit tricky because Excel's native Data Validation dropdown only supports single selection. But there are workarounds using VBA (macros) to enable multi-select functionality.
+Let’s start by understanding your setup so I can tailor the solution:
+
+First question:
+
+Which column or range of cells should contain the dropdown list?
+
+For example:
+
+Is it column A, B, or a specific range like B2:B100?
+Will the dropdown be used in a single sheet or multiple sheets?
+
+Once I know where the dropdown should go, I’ll ask about the source list and then guide you step-by-step through the macro setup.
+</details>
+
+And so far and so on, as you have experienced before. Until you are satisfied with the result.
 </details>
 
 <details>
