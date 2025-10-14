@@ -120,8 +120,6 @@ I want to brainstorm about **[unusual ways to use a folding box]**. You should a
 In this case you will provide additionally to the building blocks we have seen, blocks if information about the style of writing and structure of the text.
 AI works welll with strucutres, you can define your blocs by usings symbols such as '#' or '-' or ' <Block 1>' or simply stating the section. If you want each session to have a different structure or vocabulary you have to explain. Your prompr starts to become more complex and more complete. Iterations become more and more important. See the example below.
 
-
-
 ### General structure
 
 You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
@@ -161,7 +159,23 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 </details>
 
 <details>
-<summary><b>5. PROMPT A PROMPT</summary></b>
+<summary><b>
+5. EXCEL EXPERT </summary></b>
+
+#### TEMPLATE (copy the whole text and start as flipped interaction)
+
+As an Excel Formula Expert, your task is to provide advanced Excel formulas that perform the complex calculations or data manipulations described by the user. 
+
+If the user does not provide this information, ask the user to describe the desired outcome or operation they want to perform in Excel. Make sure to gather all the necessary information you need to write a complete formula, such as the relevant cell ranges, specific conditions, multiple criteria, or desired output format. 
+
+Once you have a clear understanding of the user's requirements, 
+1. Provide a detailed explanation of the Excel formula that would achieve the desired result. 
+2. Break down the formula into its components, explaining the purpose and function of each part and how they work together. 
+3.Provide any necessary context or tips for using the formula effectively within an Excel worksheet.
+</details>
+
+<details>
+<summary><b>6. PROMPT A PROMPT</summary></b>
 
 In this case AI chat bot is the expert in creating prompts. The challange here is not to engage too much with the chat bot that you forget in which step  you are.
 You will start prompt engineering a flipped interaction with the "Prompt Expert", the persona your AI bot will incorporate. The interview will have the purpose to feed the cha with more context so you steer in the direction you want. The result of the first interaction is a engineered prompt to answer your real questions.
@@ -217,21 +231,173 @@ After the Prompt, and Questions sections have been generated, I will respond the
 Be imaginative and thoughtful when creating the prompt. At the end of each answer, give precise instructions for the next steps.
 
 Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
+
+------
+
+***Iterations part 1:*** 
+
+<details> 
+<summary> ChatBot </summary>
+Hi ! I'm excited to help you craft a powerful and precise prompt. To get started, could you tell me what you'd like the prompt to be about? What's the topic or goal you're aiming for?
 </details>
 
 <details>
-<summary><b>6. EXCEL EXPERT</summary></b>
+<summary> Person </summary>
+I want to write a Sonet about being a imigrant that feel they have 2 homes and is always missing one of them
+</details>
 
-#### TEMPLATE (copy the whole text and start as flipped interaction)
+<details>
+<summary> ChatBot </summary>
+Thank you,  — that’s a beautiful and deeply resonant theme. Let's begin shaping your prompt to help you write a sonnet about being an immigrant who feels they have two homes and is always missing one.
 
-As an Excel Formula Expert, your task is to provide advanced Excel formulas that perform the complex calculations or data manipulations described by the user. 
+Questions to improve prompt:
 
-If the user does not provide this information, ask the user to describe the desired outcome or operation they want to perform in Excel. Make sure to gather all the necessary information you need to write a complete formula, such as the relevant cell ranges, specific conditions, multiple criteria, or desired output format. 
+Would you like the sonnet to follow a specific structure (e.g., Shakespearean or Petrarchan), or should it be free-form within the sonnet tradition?
+Should the tone lean more toward nostalgic, hopeful, melancholic, or a blend of emotions?
 
-Once you have a clear understanding of the user's requirements, 
-1. Provide a detailed explanation of the Excel formula that would achieve the desired result. 
-2. Break down the formula into its components, explaining the purpose and function of each part and how they work together. 
-3.Provide any necessary context or tips for using the formula effectively within an Excel worksheet.
+Prompt:
+You will act as a skilled poet with expertise in crafting sonnets. I want you to help me write a sonnet about being an immigrant who feels they have two homes and is always missing one of them. The poem should explore the emotional complexity of belonging to two places and the longing that comes with it.
+ 
+Next steps:
+Please answer the two questions above so I can refine the prompt further. Once I have your answers, I’ll integrate them into the prompt and continue improving it with you.
+</details>
+
+<details>
+<summary> Person </summary>
+1. Shakespearean 
+
+2. The tone should be happy and nostalgic
+
+Should also talk about family, friends and food
+</details>
+
+<details>
+<summary> ChatBot </summary>
+Thanks. Based on your answers, here’s the updated version of your prompt:
+
+Questions to improve prompt:
+
+Would you like the sonnet to include references to specific countries, cities, or cultural elements from your personal experience?
+Should the language be modern and accessible, or more traditional and poetic in line with Shakespearean style?
+
+Prompt:
+You will act as a skilled poet with expertise in crafting sonnets, especially in the Shakespearean style. I want you to help me write a sonnet about being an immigrant who feels they have two homes and is always missing one of them. The tone should be happy and nostalgic, and the poem should include themes of family, friends, and food. The sonnet should follow the Shakespearean structure with 14 lines, written in iambic pentameter, and a rhyme scheme of ABAB CDCD EFEF GG.
+
+Next steps:
+Please answer the two new questions above. Once I have your answers, I’ll refine the prompt further. Let’s keep building it together!
+</details>
+
+<details>
+<summary> Person </summary>
+1. Should be more general so several people can relate.
+
+2. Modern and accessible language.
+
+Should also be short.
+</details>
+
+<details>
+<summary> ChatBot </summary>
+Thanks, Bruna! Based on your answers, here’s the updated version of your prompt:
+
+Questions to improve prompt:
+
+Would you like the sonnet to include references to specific countries, cities, or cultural elements from your personal experience?
+Should the language be modern and accessible, or more traditional and poetic in line with Shakespearean style?
+ 
+Prompt:
+You will act as a skilled poet with expertise in crafting sonnets, especially in the Shakespearean style. I want you to help me write a sonnet about being an immigrant who feels they have two homes and is always missing one of them. The tone should be happy and nostalgic, and the poem should include themes of family, friends, and food. The sonnet should follow the Shakespearean structure with 14 lines, written in iambic pentameter, and a rhyme scheme of ABAB CDCD EFEF GG.
+ 
+Next steps:
+Please answer the two new questions above. Once I have your answers, I’ll refine the prompt further. Let’s keep building it together!
+Provide your feedback on BizChatYou said: 1. Should be more general so several people can relate.2. Modern and accessible language. Should also be short.Copilot said: CopilotPerfect, Bruna! Here's the refined version of your prompt incorporating everything you've shared:
+
+Questions to improve prompt:
+
+Should the sonnet include a volta (a thematic shift or turn) in a specific place, like after the second quatrain, or should it flow more fluidly?
+Would you like the sonnet to end with a strong concluding couplet that offers resolution, contrast, or a poignant reflection?
+
+Prompt:
+You will act as a skilled poet with expertise in crafting sonnets, especially in the Shakespearean style. I want you to help me write a short sonnet about being an immigrant who feels they have two homes and is always missing one of them. The tone should be happy and nostalgic, and the poem should include themes of family, friends, and food. The sonnet should follow the Shakespearean structure with 14 lines, written in iambic pentameter, and a rhyme scheme of ABAB CDCD EFEF GG. The language should be modern and accessible so that several people can relate to it.
+
+Next steps:
+Please answer the two new questions above so I can finalize the prompt even further. We're getting close to a beautifully tailored request!
+
+</details>
+
+------
+
+***Iterations part 2:*** 
+
+> Copy the last suggested prompt from the chatbot and use in a new tab, a new chat.
+
+<details>
+<summary> Person </summary>
+You will act as a skilled poet with expertise in crafting sonnets, especially in the Shakespearean style. I want you to help me write a short sonnet about being an immigrant who feels they have two homes and is always missing one of them. The tone should be happy and nostalgic, and the poem should include themes of family, friends, and food. The sonnet should follow the Shakespearean structure with 14 lines, written in iambic pentameter, and a rhyme scheme of ABAB CDCD EFEF GG. The language should be modern and accessible so that several people can relate to it.
+</details>
+
+<details> 
+<summary> ChatBot </summary>
+Here’s a Shakespearean-style sonnet based on your request:
+
+Two Homes, One Heart
+
+by Bruna & Copilot
+
+I walk two roads that meet in memory’s light,
+
+One paved with voices warm as summer air;
+
+The other hums beneath the moonlit night,
+
+With scents of bread and laughter everywhere.
+
+At one long table, friends and kin still cheer,
+
+Their stories seasoned like the meals we share;
+
+Yet oceans stretch, and though they’re far, they’re near,
+
+For love outlives the miles we cannot bear.
+
+The other home now cradles all my days,
+
+Its streets have learned the rhythm of my feet;
+
+New bonds have bloomed in unexpected ways,
+
+And every smile makes foreign soil feel sweet.
+
+Though torn between, I count this gift as true:
+
+Two homes to love, and both still loving you.
+
+✅ Structure check:
+
+14 lines ✔
+
+Iambic pentameter ✔
+
+Rhyme scheme ABAB CDCD EFEF GG ✔
+
+Tone: happy, nostalgic ✔
+
+Themes: family, friends, food ✔
+
+Modern and relatable language ✔
+
+Would you like me to:
+
+Polish it further for stronger imagery and rhythm?
+
+Add a title and short commentary explaining the symbolism?
+
+Create a second variation with a slightly different emotional focus (e.g., more on food, or more on the bittersweet feeling)?
+</details>
+
+With this you complete the 2 steps of having the AI chatBot crfeating a prompt for you and then applying this prompt to get what you want.
+Check with a topic of your liking
+
 </details>
 
 <span style="color:white">.</span>
