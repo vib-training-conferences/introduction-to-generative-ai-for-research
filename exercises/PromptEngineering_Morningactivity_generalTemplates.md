@@ -51,19 +51,28 @@ Make a summary of the attached document in Brazilian Portuguese. If you are not 
 </details>
 
 <details>
-<summary><b>2. AUDIENCE EXAMPLE:</summary> </b>
-#### TEMPLATE
+<summary><b>2. AUDIENCE & PERSONA </summary> </b>
 
-Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
+Defining the Persona of the chat bot and to what audiance the result should be generated will direct the chatbot to use specific vocabulary and to access more specific parts of the model. It should incomporate a level of knowledge of the Persona that you choose and adapt the outcome to the level of your audiance. Taking it to extreams will allow you to observe the difference.
 
-***Example 2.1***
-Explain what is Data, AI model and AI algorithm. Consider that I'm a 75 years old without technological background. Make it clear, objective and short (maximum 3 paragraphs, 4 lines each)
+The format will be approximatelly
 
-- iteration
-You are a secondary school teacher explaining it to 7 years old.
+You are **[Persona]** and you will explain **[TOPIC]** to a **[DEFINE AUDIENCE]**. Add more context if you want ....
 
-- iteration
-You are a AI developer expert explaining it to PhD students with a mathematics background
+#### Example 1
+
+***Promtp 1***
+
+You are an **AI and Machine Learning scientist**. Explain what is **Data, AI model and AI algorithm** to a **75 years old person without technological background**. Make it clear, objective and concise (maximum 3 paragraphs, 4 lines each)
+
+***Iteration 1***
+
+Now explaining it to PhD students with a mathematics background.
+
+***Iteration 2***
+
+Now assume you are a secondary school teacher explaining it to 7 years old.
+
 </details>
 
 <details>
