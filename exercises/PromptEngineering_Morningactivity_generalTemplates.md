@@ -1,18 +1,17 @@
 # TEMPLATES OF PROMPT STYLE TO HELP DURING ACTIVITIES AND FUTURE PROMPT GOALS.
 
-| Content                                  | Item |
-| ---------------------------------------- | ---- |
-| General information                      | 1    |
-| ROLE PLAY EXAMPLE                        | 2    |
-| AUDIENCE EXAMPLE                         | 3    |
-| FLIPPED INTERACTION or INTERVIEW EXAMPLE | 4    |
-| STEER IN SPECIFIC DIRECTIONS             | 5    |
-| PROMPT A PROMPT                          | 6    |
-| AI AS EXCEL EXPERT                       | 7    |
+| Content                                  | Item                                                   |
+| ---------------------------------------- | ------------------------------------------------------ |
+| [General information](#-1.-GENERAL-INFORMATION)                                           | 1    |
+| [AUDIENCE EXAMPLE](#-2.-AUDIENCE-EXAMPLE:)                                                | 2    |
+| [FLIPPED INTERACTION or INTERVIEW EXAMPLE](#-3.-FLIPPED-INTERACTION-or-INTERVIEW-EXAMPLE) | 3    |
+| [STEER STYLE](#-4.-STEER-THE-STYLE)                                                       | 5    |
+| [PROMPT A PROMPT](#-5.-PROMPT-A-PROMPT)                                                   | 6    |
+| [AI AS EXCEL EXPERT](#-6.-EXCEL-EXPERT)                                                   | 7    |
 
 
 
-## 1 .GENERAL INFORMATION
+## 1. GENERAL INFORMATION
 
 Replace “explain” with other action verbs that could be more adequate for your goals. See examples below.
 
@@ -34,48 +33,14 @@ THIS EXAMPLE IS AN ITEREATION OF THE PREVIOUS
 
 Make a summary in Brazilian Portuguese. If you are not fluent, you can use translation tools to help you with this task.
 
-## 2. ROLE PLAY EXAMPLE
 
-#### TEMPLATE
-
-Your role as **[DEFINE ROLE]** is to create **[DEFINE OUTPUT]** to **[AUDIENCE]** to **[GOAL]**. Your responsibilities will include **[DETAILED GOALS]**. **[SUMMARIZED GOAL]**.
-
-***Example 2.1:***
-Your role as a coding tutor is to create personalized study plans to help first year university students learn how to code in the Python language. Your responsibilities will include understanding the goals, time commitment, and preferred learning resources of each student, and using that information to develop a comprehensive study plan with clear timelines and links to relevant resources. You should be able to adapt your teaching style to meet the individual needs of each student and provide ongoing support and guidance throughout the learning process. Your goal will be to help each student develop the skills and knowledge they need to achieve their coding goals.
-
-***Example 2.2***
-
-I want you to act as a text based Excel. you'll only reply me the text-based, include Excel sheet with row numbers and cell letters as columns (A to L). Start asking me the headers and then ask me how to fill the excel cellss and you'll reply only the result of excel table as text, and nothing else. Do not write explanations. After I answer you print the result and always ask me what is the next task.
-
-    HEADER EXAMPLE: Year ;Start date;End date;Days;Name Event;Location
-
-Now add the following data into the table, and replace semicolon separators by coma separators if needed.
-
-[COPY THE CSV TEXT BELLOW THE COMMAND, LOOK [FILE](../exercises/data/excel_test.csv)]
-
-If doesn't already exist, include a new collum called "STATUS" between the colums "Days"" and "Name event". Considering today's date and the "Start date" and "End date" fill it up with "Past", "Ongoing" or "Upcoming"
-
-List locations with their event counts. Consider all lines that cite Gent as the same and all that contains Leuven as the same. Show me a list of locations and counts considering this information
-
-make a pie chart from this list incluiding percentages and absolute numbers using darkviolet color.
-
-***Example 2.3***
-
-I want you to act as an AI writing tutor. I will provide you with a documentation I wrote for my course and you need to help improving my writing. Your task is to use artificial intelligence tools, such as natural language processing, to give feedback on how the documentation can be improved for clarity. You should also use your rhetorical knowledge and experience about effective writing techniques in order to suggest ways to better express thoughts and ideas in written form.Before we start, great me and ask me to share the documentation. Once I share the file always finish the interaction asking me what should we review next?
-
-LOOK FOR FILE EXAMPLE  FILE - [tutorial.md](https://github.com/vibbits/introduction-github/blob/master/tutorials/1_Get_ready_for_the_course/tutorial.md)
-
-Print only the list of high level session [ANEX THE FILE IN THE PROMPT]
-
-
-
-## 3. AUDIENCE EXAMPLE:
+## 2. AUDIENCE EXAMPLE:
 
 #### TEMPLATE
 
 Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
 
-***Example 3.1***
+***Example 2.1***
 Explain what is Data, AI model and AI algorithm. Consider that I'm a 75 years old without technological background. Make it clear, objective and short (maximum 3 paragraphs, 4 lines each)
 
 - iteration
@@ -85,9 +50,9 @@ You are a secondary school teacher explaining it to 7 years old.
 You are a AI developer expert explaining it to PhD students with a mathematics background
 
 
-## 4. FLIPPED INTERACTION or INTERVIEW EXAMPLE
+## 3. FLIPPED INTERACTION or INTERVIEW EXAMPLE
 
-#### 4.1 TEMPLATE (defining what and whom):
+#### 3.1 TEMPLATE (defining what and whom):
 
 I want to create **[OUTPUT]**to **[GOAL]** for **[AUDIENCE]**. You should ask me questions until you have enough information to create the **[OUTPUT]**. Ask **[X QUESTIONS]** at a time.
 
@@ -100,7 +65,7 @@ I need to create a detailed excel plan for all the events we offer. Help me defi
 
 ----
 
-#### 4.2 TEMPLATE (WWW - identify Why, Who and What ):
+#### 3.2 TEMPLATE (WWW - identify Why, Who and What ):
 
 We would like to write about **[TOPIC]**. For this we would like to brainstorm with you.
 
@@ -110,7 +75,7 @@ To do this we would like you to ask us questions to clarify the WHY this **[PROJ
 We would like to write about [topic]. For this we would like to brainstorm with you.
 To do this we would like you to ask us questions to clarify the why this project should be done and who it should be done for, who are the stakeholders. We would like you to ask four questions at a time, brainstorm for us two reasons and two types of stakeholders and wait for our answer which you include in the description of the project that you provide us with. Then we redo the whole circle again. Here is the information about the project: [info]
 
-## 5. STEER THE STYLE
+## 4. STEER THE STYLE
 
 #### TEMPLATE (define style and list of words):
 
@@ -147,7 +112,7 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 
 /### style ###
 
-## 6. PROMPT A PROMPT
+## 5. PROMPT A PROMPT
 
 #### TEMPLATE (Prompt this whole TEXT at once:):
 
@@ -170,7 +135,7 @@ Be imaginative and thoughtful when creating the prompt. At the end of each answe
 Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
 
 
-## 7. EXCEL EXPERT
+## 6. EXCEL EXPERT
 
 #### TEMPLATE (copy the whole text and start as flipped interaction)
 
