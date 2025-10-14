@@ -1,17 +1,9 @@
 # TEMPLATES OF PROMPT STYLE TO HELP DURING ACTIVITIES AND FUTURE PROMPT GOALS.
 
-| Content                                  | Item                                                   |
-| ---------------------------------------- | ------------------------------------------------------ |
-| [General information](#-1.-GENERAL-INFORMATION)                                           | 1    |
-| [AUDIENCE EXAMPLE](#-2.-AUDIENCE-EXAMPLE:)                                                | 2    |
-| [FLIPPED INTERACTION or INTERVIEW EXAMPLE](#-3.-FLIPPED-INTERACTION-or-INTERVIEW-EXAMPLE) | 3    |
-| [STEER STYLE](#-4.-STEER-THE-STYLE)                                                       | 5    |
-| [PROMPT A PROMPT](#-5.-PROMPT-A-PROMPT)                                                   | 6    |
-| [AI AS EXCEL EXPERT](#-6.-EXCEL-EXPERT)                                                   | 7    |
+<span style="color:white">.</span>
 
-
-
-## 1. GENERAL INFORMATION
+<details>
+<summary><b> 1. GENERAL INFORMATION </summary></b>
 
 Replace “explain” with other action verbs that could be more adequate for your goals. See examples below.
 
@@ -32,10 +24,10 @@ Rewrite the orignal session in Nederlands from Belgium. If you are not fluent, y
 THIS EXAMPLE IS AN ITEREATION OF THE PREVIOUS
 
 Make a summary in Brazilian Portuguese. If you are not fluent, you can use translation tools to help you with this task.
+</details>
 
-
-## 2. AUDIENCE EXAMPLE:
-
+<details>
+<summary><b>2. AUDIENCE EXAMPLE:</summary> </b>
 #### TEMPLATE
 
 Explain **[TOPIC]**. Assume I’m **[DEFINE AUDIENCE]**.
@@ -48,9 +40,10 @@ You are a secondary school teacher explaining it to 7 years old.
 
 - iteration
 You are a AI developer expert explaining it to PhD students with a mathematics background
+</details>
 
-
-## 3. FLIPPED INTERACTION or INTERVIEW EXAMPLE
+<details>
+<summary><b>3. FLIPPED INTERACTION or INTERVIEW EXAMPLE</summary></b>
 
 #### 3.1 TEMPLATE (defining what and whom):
 
@@ -74,8 +67,10 @@ To do this we would like you to ask us questions to clarify the WHY this **[PROJ
 ***Example 2:***
 We would like to write about [topic]. For this we would like to brainstorm with you.
 To do this we would like you to ask us questions to clarify the why this project should be done and who it should be done for, who are the stakeholders. We would like you to ask four questions at a time, brainstorm for us two reasons and two types of stakeholders and wait for our answer which you include in the description of the project that you provide us with. Then we redo the whole circle again. Here is the information about the project: [info]
+</details>
 
-## 4. STEER THE STYLE
+<details>
+<summary><b>4. STEER THE STYLE</summary></b>
 
 #### TEMPLATE (define style and list of words):
 
@@ -112,7 +107,10 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 
 /### style ###
 
-## 5. PROMPT A PROMPT
+</details>
+
+<details>
+<summary><b>5. PROMPT A PROMPT</summary></b>
 
 #### TEMPLATE (Prompt this whole TEXT at once:):
 
@@ -133,9 +131,10 @@ After the Prompt,  and Questions sections have been generated, I will respond th
 Be imaginative and thoughtful when creating the prompt. At the end of each answer, give precise instructions for the next steps.
 
 Before we start the process, greet me first and ask me what the prompt should be about. Don't show the sections in that first answer.
+</details>
 
-
-## 6. EXCEL EXPERT
+<details>
+<summary><b>6. EXCEL EXPERT</summary></b>
 
 #### TEMPLATE (copy the whole text and start as flipped interaction)
 
@@ -147,9 +146,13 @@ Once you have a clear understanding of the user's requirements,
 1. Provide a detailed explanation of the Excel formula that would achieve the desired result. 
 2. Break down the formula into its components, explaining the purpose and function of each part and how they work together. 
 3.Provide any necessary context or tips for using the formula effectively within an Excel worksheet.
+</details>
 
+<span style="color:white">.</span>
 
-# EXAMPLE ARE FROM:
+<span style="color:white">.</span>
+
+# EXAMPLE ARE ADAPTED FROM:
 
 Prompts to make you Prompt like a Pro
 (Taken from Zain Khan, Mark Fulton, Ruben Hassid and others.)
