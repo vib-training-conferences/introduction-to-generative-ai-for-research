@@ -34,6 +34,8 @@ When you think of your verb, try to be very clear, Replace “explain” with ot
 Complementary you should specify more information about what you expect from this verb. Exemplify what? Draw in which style? Compare in what perspective? Simply to what level? etc ...
 This way you can get the best out of the chat bot.
 
+-----
+
 ***Promtp 1***
 
 Rewrite the orignal session in Nederlands from Belgium. If you are not fluent, you can use translation tools to help you with this task.
@@ -41,6 +43,8 @@ Rewrite the orignal session in Nederlands from Belgium. If you are not fluent, y
 [Copy text or attach file]
 
 > In this simple prompt you have a clear verb "Rewrite" and you specify the language and form of the language Dutch from Nederlands is usually the reference, but you want Belgium variation which will vary the vocabulary choosen for the translation.
+
+-----
 
 ***Iteration 1***
 
@@ -59,15 +63,19 @@ The format will be approximatelly
 
 You are **[Persona]** and you will explain **[TOPIC]** to a **[DEFINE AUDIENCE]**. Add more context if you want ....
 
-#### Example 1
+-----
 
 ***Promtp 1***
 
 You are an **AI and Machine Learning scientist**. Explain what is **Data, AI model and AI algorithm** to a **75 years old person without technological background**. Make it clear, objective and concise (maximum 3 paragraphs, 4 lines each)
 
+-----
+
 ***Iteration 1***
 
 Now explaining it to PhD students with a mathematics background.
+
+-----
 
 ***Iteration 2***
 
@@ -96,6 +104,8 @@ We would like to write about **[TOPIC]**. For this we would like to brainstorm w
 
 To do this we would like you to ask us questions to clarify the WHY this **[PROJECT/CHANGES/PLAN]** should be done and WHO it should be done for. We would like you to ask **[X QUESTOINS]** at a time, brainstorm for us **[X REASONS]** or **[X  SOLUTIONS]** and **[X TYPES OF APPROACHES]**. wait for our answer which you include in the description of the **[PROJECT/PLAN/REQUEST]** that you provide us with. Then we redo the whole circle again. Here is the information about the **[PROJECT/PLAN/REQUEST]**: **[INFO]**
 
+-----
+
 ***Prompt 1:***
 
 I want to brainstorm about **[unusual ways to use a folding box]**. You should ask me questions that will guide the **[brainstorm]** to find the most variable possibilities. Ask **[2 QUESTIONS at a time]**. And **[after I answer]** you can ask new questions. After **[5 rounds]** you should propose a **['list of 10 possibilities']**. Refrain of repeating questions even if they are unanswered.
@@ -107,15 +117,14 @@ I want to brainstorm about **[unusual ways to use a folding box]**. You should a
 <details>
 <summary><b>4. STEER THE STYLE</summary></b>
 
-#### TEMPLATE (define style and list of words):
-
 In this case you will provide additionally to the building blocks we have seen, blocks if information about the style of writing and structure of the text.
 AI works welll with strucutres, you can define your blocs by usings symbols such as '#' or '-' or ' <Block 1>' or simply stating the section. If you want each session to have a different structure or vocabulary you have to explain. Your prompr starts to become more complex and more complete. Iterations become more and more important. See the example below.
 
-You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
+
 
 ### General structure
 
+You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
 - style of tetx -
 
 **[AVOID/USE]** fancy jargon. Write **[FORMALLY/NORMALLY/]**. 
@@ -125,6 +134,8 @@ You are **[FORBIDDEN]** to use complex English words, refrain of using terms fro
 -  ban list -
 
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
+
+------
 
 ***Prompt 1:*** 
 
@@ -137,6 +148,8 @@ Avoid fancy jargon. Write normally. You are forbidden to use complex English wor
 - ban list -
 
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
+
+------
 
 ***Iteration 1:*** 
 
