@@ -78,28 +78,30 @@ Now assume you are a secondary school teacher explaining it to 7 years old.
 <details>
 <summary><b>3. FLIPPED INTERACTION or INTERVIEW EXAMPLE</summary></b>
 
-#### 3.1 TEMPLATE (defining what and whom):
+In this case you will instruct AI chat bot to interview you in order to chieve your goal. Additionally to defininf your goals you need to define how the interview will happen and how long it should be. You will be able to stop or extend the interview as you want, however if you don't define the duration it is likely that AI will keep going until you actively tell it to stop.
 
-I want to create **[OUTPUT]**to **[GOAL]** for **[AUDIENCE]**. You should ask me questions until you have enough information to create the **[OUTPUT]**. Ask **[X QUESTIONS]** at a time.
+When structuring an interview you must define:
 
-***Example 1:***
-I want to create a workshop plan to develop a strategic plan for my organization for the coming year. You should ask me questions until you have enough information to create the lesson plan. Ask one question at a time.
+1. how the qeustions will be asked (all at once, one at a time, etc)
 
-*** Example 2:***
+2. for how long (5 cycles, 10 cycles, etc)
 
-I need to create a detailed excel plan for all the events we offer. Help me define which columns can be must have, good to have or extra so we have a comprehensive view of the events. To guide me in the process ask me one question at a time and wait for me to answer before you ask again. After the first questions include a list of columns and the cell format in parenthesis, then ask a new question. If I answer NA (non applicable, ignore the question)
+3. how you will answer (wait for your ansewr, ignore unswered questions, etc)
 
-----
+There are many details that can influence on the success rate of this interaction. A general example that you can adpat is shared bellow. And even better a compleate example to inspire you and that you can also adpat is shared next.
 
-#### 3.2 TEMPLATE (WWW - identify Why, Who and What ):
+#### General structure example
 
 We would like to write about **[TOPIC]**. For this we would like to brainstorm with you.
 
 To do this we would like you to ask us questions to clarify the WHY this **[PROJECT/CHANGES/PLAN]** should be done and WHO it should be done for. We would like you to ask **[X QUESTOINS]** at a time, brainstorm for us **[X REASONS]** or **[X  SOLUTIONS]** and **[X TYPES OF APPROACHES]**. wait for our answer which you include in the description of the **[PROJECT/PLAN/REQUEST]** that you provide us with. Then we redo the whole circle again. Here is the information about the **[PROJECT/PLAN/REQUEST]**: **[INFO]**
 
-***Example 2:***
-We would like to write about [topic]. For this we would like to brainstorm with you.
-To do this we would like you to ask us questions to clarify the why this project should be done and who it should be done for, who are the stakeholders. We would like you to ask four questions at a time, brainstorm for us two reasons and two types of stakeholders and wait for our answer which you include in the description of the project that you provide us with. Then we redo the whole circle again. Here is the information about the project: [info]
+***Prompt 1:***
+
+I want to brainstorm about **[unusual ways to use a folding box]**. You should ask me questions that will guide the **[brainstorm]** to find the most variable possibilities. Ask **[2 QUESTIONS at a time]**. And **[after I answer]** you can ask new questions. After **[5 rounds]** you should propose a **['list of 10 possibilities']**. Refrain of repeating questions even if they are unanswered.
+
+> This prompt will start an interview. If you fell that after 2 or 3 rounds (4-6 questions) you have enought you can  tell the chat bot to "stop and give me a list of possibilities".
+> You can also extende to more rounds if you fell like it is not enough. And you can adjust the total of possibilites or ask AI to classify them for you. The sky is the limit.
 </details>
 
 <details>
