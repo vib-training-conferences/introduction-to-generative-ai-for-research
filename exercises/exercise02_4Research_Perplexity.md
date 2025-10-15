@@ -2,7 +2,7 @@
 
 - Open your browser and surf to https://perplexity.ai 
 
-- Open another tab and surf to https://scholar.google.com 
+- Open another tab and surf to https://asta.allen.ai 
 
 Question to address:
 Use this question: How to make training events and material more findable, accessible, interoperable and re-usable?
