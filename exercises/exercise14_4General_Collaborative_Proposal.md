@@ -1,6 +1,6 @@
 # Exercise 14
 
-Form small groups of around 5-7 persons, select a topic below, and distribute the distinct activities between the group members.
+Form small groups of around 3 persons, select a topic below, and distribute the distinct activities between the group members.
 
 In case you would like to take another use case, do not hesitate and think about an own short project relevant for your lab.
 
@@ -68,5 +68,6 @@ In case you would like to take another use case, do not hesitate and think about
    [Link to the exercise](./exercise12_4Research_InspirationalPromptsForWriting.md)
 
    
+
 
 
