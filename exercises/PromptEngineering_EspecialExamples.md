@@ -35,9 +35,9 @@ This way you can get the best out of the chat bot.
 
 -----
 
-***Promtp 1***
+***Prompt 1***
 
-Summarize what is and the basic steps of European Patent Convention (EPC). And in exemplify in 3 steps how to start the procedure for a patent request. 
+Summarize what is the European Patent Convention (EPC) and the relevant stages of patent procedure meeting the requirements of the EPC. And exemplify in 3 steps how to start the procedure for a patent request. 
 
 [Copy text or attach file]
 
@@ -62,9 +62,9 @@ You are **[Persona]** and you will explain **[TOPIC]** to a **[DEFINE AUDIENCE]*
 
 -----
 
-***Promtp 1***
+***Prompt 1***
 
-You are an **Business developer of a bioscience company**. Categorize the list of companies in this [LIST.xcl] based on participation on our conferences. Explain each category for a **expert coleague**.
+You are an **Business developer of a bioscience company**. Categorize the list of companies in this [LIST.xlsx] based on participation on our conferences. Explain each category for an **expert colleague**.
 
 -----
 
@@ -98,7 +98,7 @@ To do this we would like you to ask us questions to clarify the WHY this **[PROJ
 
 ***Prompt 1:***
 
-I want to brainstorm about **[definitins of the terms listed bellow]**. You should ask me questions that will guide the **[perspective of this definitions]** to find the precise and unambugous definition. Ask **[2 QUESTIONS at a time]** for each term on the list. After I answer you can ask new questions and suggest a draft definition. Move to the next term when I say ***"This is good. Move on to the next."***. Every time we have a good definition print the list Term:Definition interativelly. 
+I want to brainstorm about **[definitins of the terms listed below]**. You should ask me questions that will guide the **[perspective of this definitions]** to find the precise and unambugous definition. Ask **[2 QUESTIONS at a time]** for each term on the list. After I answer you can ask new questions and suggest a draft definition. Move to the next term when I say ***"This is good. Move on to the next."***. Every time we have a good definition print the list Term:Definition interativelly. 
 
 - LIST - 
 
@@ -119,7 +119,7 @@ AI works welll with strucutres, you can define your blocs by usings symbols such
 ### General structure
 
 You are **[DEFINE ROLE]**. Write a paragraph of max **[PROMPT LIMIT SIZE]** TO **[GOAL/OUTPUT]**. Assume you are writing for **[AUDIENCE]**.
-- style of tetx -
+- style of text -
 
 **[AVOID/USE]** fancy jargon. Write **[FORMALLY/NORMALLY/]**. 
 
@@ -133,7 +133,7 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 
 ***Prompt 1:*** 
 
-Using the [file.pdf] with bullet points write a text for an email to be sent to **Director of the center [to define] **.  Respect the style defined
+Using the [file.pdf] with bullet points write a text for an email to be sent to [**Director of the center [to define]**].  Respect the style defined.
 
 - style -
 
@@ -147,7 +147,7 @@ Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, 
 
 ***Iteration 1:*** 
 
-Adpat the paragrap by **using fancy jargon**. Write for as you are introducing the topic to a friend without expertise.  Use terms from - My list -. Be polite, creative and fun.
+Adapt the paragrap by **using fancy jargon**. Write for as you are introducing the topic to a friend without expertise.  Use terms from - My list -. Be polite, creative and fun.
 
 - My list -
 Hurdles, Bustling, Harnessing, Unveiling the power, Realm, Depicted, Demistify, Insurmountable, New Era, Poised, Unravel, Entanglement, Unprecedented, Eerie connection, unliving, Beacon, Unleash, Delve, Enrich, Multifaced, Elevate, Discover, Supercharge, Unlock, Unleash, Tailored, Elegant, Delve, Dive, Ever-evolving, pride, Realm, Meticulously, Grappling, Weighing, Picture, Architect, Adventure, Journey, Embark, Navigate, Navigation, dazzle, tapestry.
@@ -213,7 +213,7 @@ You will start prompt engineering a flipped interaction with the "Prompt Expert"
 
 Imagine like this. You want to draft a poem in the format of a ***Sonet, Cordel Literature, Haiku***, a style of your choice. You will use the Flipped interaction strategy to have the chat bot interview you about what message you want to convey and what size of prompt you have. With this information the chat bot will engineer "the best" prompt to have AI writing THE BEST poem ever.
 
-This type of approach has many sectons defined.
+This type of approach has many sections defined.
 
 See the example ...
 
@@ -454,3 +454,4 @@ https://msty.app/prompts-library
 
 Explain what you want from the verb
 https://www.linkedin.com/feed/update/urn:li:activity:7229585834339885056/
+
