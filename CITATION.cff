@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this lesson, please cite it as below."
 authors:
 - family-names: "Botzki"
   given-names: "Alexander"
@@ -7,8 +7,26 @@ authors:
 - family-names: "Piereck Moura"
   given-names: "Bruna"
   orcid: "https://orcid.org/0000-0001-5958-0669"
+contact:
+- given-names: Alexander
+  family-names: Botzki
+  affiliation: VIB
+  orcid: 0000-0001-6691-4233
 title: "Introduction to Strategic use of Generative AI in Research"
 version: v1.0.0
-doi: 10.5281/zenodo.18060253
+doi: ~
 date-released: 2025-12-26
 url: "https://github.com/vib-tcp/introduction-to-generative-ai"
+keywords:
+- protocols
+- R package
+- Reproducible research
+- Rmarkdown templates
+license: CC-BY
+repository-code: https://github.com/vib-tcp/introduction-to-generative-ai/
+type: lesson
+abstract: "Hands-on training material for the Introduction to Strategic Use of Generative AI tools"
+identifiers:
+- type: url
+  value: https://github.com/vib-tcp/introduction-to-generative-ai/
+version: v2025.11
