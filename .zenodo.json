@@ -1,0 +1,39 @@
+{
+  "title": "Introduction to Generative AI",
+  "version": "v2025.11",
+  "license": "CC-BY",
+  "upload_type": "lesson",
+  "description": "<p>This hands-on class aims to provide you the necessary skills to effectively use a selection of Generative AI tools in a interdisciplinary way.<\/p>",
+  "keywords": [
+    "Generative AI",
+    "NotebookLM",
+    "Microsoft Copilot"
+  ],
+  "access_right": "open",
+  "language": "eng",
+  "contributors": [
+    {
+      "name": "VIB",
+      "type": "rightsholder"
+    }
+  ],
+  "creators": [
+    {
+      "name": "Botzki, Alexander",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-6691-4233",
+      "type": "contactperson"
+    },
+    {
+      "name": "Piereck Moura, Bruna",
+      "affiliation": "VIB",
+      "orcid": "0000-0001-5958-0669",
+      "type": "contactperson"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "vibtcp"
+    }
+  ]
+}
