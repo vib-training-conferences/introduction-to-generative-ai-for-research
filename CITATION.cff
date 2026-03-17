@@ -26,10 +26,10 @@ keywords:
 - Generative AI
 - training material
 license: CC-BY
-repository-code: https://github.com/vib-tcp/introduction-to-generative-ai/
+repository-code: https://github.com/vib-training-conferences/introduction-to-generative-ai/
 type: lesson
 abstract: "Hands-on training material for the Introduction to Strategic Use of Generative AI tools"
 identifiers:
 - type: url
-  value: https://github.com/vib-tcp/introduction-to-generative-ai/
+  value: https://github.com/vib-training-conferences/introduction-to-generative-ai/
   version: v2026.03
