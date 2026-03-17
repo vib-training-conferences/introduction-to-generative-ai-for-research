@@ -9,15 +9,15 @@ authors:
   family-names: Piereck Moura
   affiliation: VIB
   orcid: 0000-0001-6691-4233
+- given-names: Jolan
+  family-names: Heyse
+  affiliation: VIB
+  orcid: 0000-0003-2179-0366
 contact:
 - given-names: Alexander
   family-names: Botzki
   affiliation: VIB
   orcid: 0000-0001-6691-4233
-- given-names: Jolan
-  family-names: Heyse
-  affiliation: VIB
-  orcid: 0000-0003-2179-0366
 title: "Introduction to Strategic use of Generative AI in Research"
 version: v1.0.0
 doi: ~
