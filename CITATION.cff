@@ -14,10 +14,14 @@ contact:
   family-names: Botzki
   affiliation: VIB
   orcid: 0000-0001-6691-4233
+- given-names: Jolan
+  family-names: Heyse
+  affiliation: VIB
+  orcid: 0000-0003-2179-0366
 title: "Introduction to Strategic use of Generative AI in Research"
 version: v1.0.0
 doi: ~
-date-released: 2026-01-05
+date-released: 2026-03-17
 keywords:
 - Generative AI
 - training material
@@ -28,4 +32,4 @@ abstract: "Hands-on training material for the Introduction to Strategic Use of G
 identifiers:
 - type: url
   value: https://github.com/vib-tcp/introduction-to-generative-ai/
-  version: v2025.12
+  version: v2026.03
