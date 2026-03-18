@@ -132,8 +132,8 @@ Schedule day 1:
 > <i class="fa fa-envelope-open-text"></i> **Supporting Materials**:
 > 
 > 1. [Exercises and solutions](https://github.com/vib-tcp/introduction-to-generative-ai/tree/main/exercises)
-> 2. [Slides morning]([https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_intro_2025_v2.2.pdf](https://docs.google.com/presentation/d/1BIq0r_EngIT8mljIJ2fxKQAqiK95yfijvJKgkTLZdPQ/edit?usp=sharing)
-> 3. [Slides afternoon]([https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/20251015-strategic_use_of_GenAI_Research_2025_V2.5.pptx](https://docs.google.com/presentation/d/1AVe_q0V3bPlumwFAM7JcRRluImY5gb0N/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true)  
+> 2. [Slides morning]([https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/strategic_use_of_GenAI_intro_2025_v2.2.pdf](https://docs.google.com/presentation/d/1BIq0r_EngIT8mljIJ2fxKQAqiK95yfijvJKgkTLZdPQ/edit?usp=sharing))
+> 3. [Slides afternoon]([https://github.com/vib-tcp/introduction-to-generative-ai/blob/main/presentations/20251015-strategic_use_of_GenAI_Research_2025_V2.5.pptx](https://docs.google.com/presentation/d/1AVe_q0V3bPlumwFAM7JcRRluImY5gb0N/edit?usp=sharing&ouid=102044173704117471327&rtpof=true&sd=true))  
 > 
 > <i class="fa fa-life-ring"></i> **Acknowledgement**:
 >
